@@ -3,7 +3,7 @@
 
   "name": "Open In MPV",
   "description": "Open videos and audios in MPV.",
-  "version": "2.0.0",
+  "version": "1.0",
   "background": {
     "page": "background.html"
   },
@@ -23,9 +23,7 @@
     "default_title": "Open In MPV"
   },
   "permissions": [
-    "tabs",
-    "activeTab",
-    "contextMenus"
+    "activeTab"
   ],
   "icons": {
     "16": "icon16.png",
