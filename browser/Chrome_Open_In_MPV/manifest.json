@@ -3,7 +3,7 @@
 
   "name": "Open In MPV",
   "description": "Open videos and audios in MPV.",
-  "version": "1.0",
+  "version": "1.01",
   "background": {
     "page": "background.html"
   },
