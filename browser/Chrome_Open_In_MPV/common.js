@@ -5,7 +5,7 @@ const options = [
 
 export function openInMPV(tabId, url = {}) {
     const baseURL = `ytdl://`;
-    const params = [`${encodeURIComponent(url)}`];
+    const params = [`${url}`];
     const code = `
         var link = document.createElement('a');
         link.href='${baseURL}${params.join("&")}';

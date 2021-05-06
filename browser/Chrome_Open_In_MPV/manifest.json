@@ -1,9 +1,9 @@
 {
   "manifest_version": 2,
 
-  "name": "Open In MPV",
-  "description": "Open videos and audios in MPV.",
-  "version": "1.01",
+  "name": "Open In UMPV",
+  "description": "Open videos and audios in UMPV.",
+  "version": "1.02",
   "background": {
     "page": "background.html"
   },
